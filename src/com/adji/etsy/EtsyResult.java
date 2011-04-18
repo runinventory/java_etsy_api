@@ -10,7 +10,7 @@ import java.util.Iterator;
  * Accepts a generic type parameter R that corresponds to the array "results" parameter of the response.
  */
 public class EtsyResult<R> {
-	private Integer count;   // must be Integer for GSON
+	private Integer count;
 	private String type;
 	private R [] results;
 	
