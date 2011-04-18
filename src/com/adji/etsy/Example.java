@@ -30,8 +30,8 @@ public class Example {
 	 * The names of the fields must correspond to the names in the JSON reply.
 	 */
 	public static class ResultGetUser {
-		Long user_id;
-		String login_name;
+		private Long user_id;
+		private String login_name;
 		
 		public Long getUser_id() {
 			return user_id;
@@ -59,7 +59,7 @@ public class Example {
 	 * http://developer.etsy.com/docs/resource_featuredlisting#findallfeaturedlisting
 	 */
 	public static class ResultFindAllFeaturedListing {
-		long listing_id;
+		private long listing_id;
 		
 		public long getListing_id() {
 			return listing_id;
