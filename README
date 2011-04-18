@@ -1,8 +1,9 @@
 This project is for those interested in calling the Etsy Api from Java.
 
-The best way to start using it is to simply run the Example.java file that contains a main with an example of calling 2 
-Etsy Api methods. All the source files also contain a comments section that explains the purpose of the class. In total 
-at the moment there are 5 files, one of which is the example. Currently only public method calls are supported.
+The best way to start using it is to simply run the Example.java file that contains a main with an example of calling
+2 Etsy Api methods. All the source files also contain a comments section that explains the purpose of the class. 
+In total at the moment there are 5 files, one of which is the example. Currently only public method calls are 
+supported.
 
 
 To run the Example you will need to follow these steps:
